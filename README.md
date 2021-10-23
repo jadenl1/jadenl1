@@ -7,7 +7,7 @@
 - I'm currently a freshman @ the University of Maryland Baltimore County
 
 - I'm currently looking to collaborate on any kind of skill project
-  - I'm also highly proficient in adobe photoshop, illustrator, lightroom, and premier
+  - I'm also highly proficient in adobe photoshop, illustrator, lightroom, and premiere
   - You can reach me at
     - Instagram: @leonardjadenn
     - Twitter: @leonardjadenn
