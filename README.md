@@ -1,14 +1,10 @@
-- Hi, I’m Jaden.
+Jaden Leonard
+Studying Computer Science @ University of Maryland, Baltimore County
 
-- I'm proficient in HTML/CSS, C#, JS, Java, Python.
+HTML/CSS | C# | JS | Java | Python | Dart
+Angular | NodeJS | Adobe Creative Suite | Microsoft Suite | Google Suite | Unity | VSCode | Linux | Git
 
-- I love sketching, digital art, painting, photography, and graphic design
-
-- I'm currently a freshman @ the University of Maryland Baltimore County
-
-- I'm currently looking to collaborate on any kind of skill project
-  - I'm also highly proficient in adobe photoshop, illustrator, lightroom, and premiere
-  - You can reach me at
+Reach Me:
     - Instagram: @leonardjadenn
     - Twitter: @leonardjadenn
     - Gmail: jleonardSTEM2021@gmail.com
