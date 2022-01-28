@@ -2,8 +2,10 @@
 
 Studying Computer Science @ University of Maryland, Baltimore County
 
+Fullstack Developer
+
 - HTML/CSS | C# | JS | Java | Python | Dart
-- React.js | NodeJS | Adobe Creative Suite | Microsoft Suite | Google Suite | Unity | VSCode | Linux | Git
+- Reactjs | NodeJS | Adobe Creative Suite | Microsoft Suite | Google Suite | Unity | VSCode | Linux | Git
 
 ## Reach Me:
 - Instagram: @leonardjadenn
