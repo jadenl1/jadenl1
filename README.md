@@ -2,7 +2,7 @@
 
 Studying Computer Science @ University of Maryland, Baltimore County
 
-Fullstack Developer
+Fullstack Developer,
 https://leonardjaden.me/
 
 - HTML/CSS, C#,  JS, Java, Python, Dart
