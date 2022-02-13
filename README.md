@@ -9,6 +9,5 @@ https://leonardjaden.me/
 - Reactjs, NodeJS, Firebase, MongoDB, TensorFlow, Adobe Creative Suite, Microsoft Suite, Google Suite, Unity, VSCode, Linux, Git
 
 ## Reach Me:
-- Instagram: @leonardjadenn
-- Twitter: @leonardjadenn
+- Instagram & Twitter: @leonardjadenn
 - Gmail: jleonardSTEM2021@gmail.com
