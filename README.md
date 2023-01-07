@@ -1,5 +1,5 @@
 # Jaden Leonard
-## Interested In Everything
+### Interested In Everything
 
 Studying Computer Science @ University of Maryland, College Park
 
