@@ -1,6 +1,6 @@
 # Jaden Leonard
 
-Studying Computer Science @ University of Maryland, Baltimore County
+Studying Computer Science @ University of Maryland, College Park
 
 Fullstack Developer,
 https://leonardjaden.me/
