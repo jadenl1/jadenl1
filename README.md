@@ -1,12 +1,10 @@
 # Jaden Leonard
+## Interested In Everything
 
 Studying Computer Science @ University of Maryland, College Park
 
 Fullstack Developer,
 https://leonardjaden.me/
-
-- HTML/CSS, C#,  JS, Java, Python, Dart
-- Reactjs, NodeJS, Firebase, MongoDB, TensorFlow, Adobe Creative Suite, Microsoft Suite, Google Suite, Unity, VSCode, Linux, Git
 
 ## Reach Me:
 - Instagram + Twitter: @leonardjadenn
