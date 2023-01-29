@@ -4,7 +4,7 @@
 Studying Computer Science @ University of Maryland, College Park
 
 Fullstack Developer,
-https://leonardjaden.me/
+https://leonardjaden.pro/
 
 ## Reach Me:
 - Instagram + Twitter: @leonardjadenn
