@@ -7,5 +7,5 @@ Fullstack Developer,
 https://leonardjaden.pro/
 
 ## Reach Me:
-- Instagram + Twitter: @leonardjadenn
+- Instagram & Twitter: @leonardjadenn
 - Gmail: jleonardSTEM2021@gmail.com
