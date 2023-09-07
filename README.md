@@ -1,7 +1,5 @@
 # Jaden Leonard
-### Interested In Everything
-
-Studying Computer Science @ University of Maryland, College Park
+### Studying Computer Science @ University of Maryland, College Park
 
 Fullstack Developer,
 https://leonardjaden.pro/
