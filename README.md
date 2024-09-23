@@ -1,5 +1,5 @@
 # Jaden Leonard
 ### Studying Computer Science @ University of Maryland, College Park
 
-## Reach Me @
+## Reach MeL:
 - Gmail: jleonardSTEM2021@gmail.com
