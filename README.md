@@ -1,9 +1,5 @@
 # Jaden Leonard
 ### Studying Computer Science @ University of Maryland, College Park
 
-Fullstack Developer,
-https://leonardjaden.pro/
-
-## Reach Me:
-- Instagram & Twitter: @leonardjadenn
+## Reach Me @
 - Gmail: jleonardSTEM2021@gmail.com
