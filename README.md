@@ -1,6 +1,12 @@
 # Jaden Leonard
-### Studying Computer Science @ University of Maryland, College Park
----
+
+Computer Science B.S @ University of Maryland, College Park `Spring 2025`
+
+Studying Computer Science M.S @ Bowie State University `Spring 2027`
+
 ### Reach Me:
+- Portfolio: http://leonardjaden.me/
 - Gmail: jleonardSTEM2021@gmail.com
 - LinkedIn: [leonardjaden](linkedin.com/in/leonardjaden/)
+
+![jadenl1's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jadenl1&theme=dracula&show_icons=true&hide_border=true&layout=compact)
