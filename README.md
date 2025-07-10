@@ -13,4 +13,5 @@ Studying Computer Science M.S @ Bowie State University `Spring 2027`
 - [Teryn](https://teryn.app/) `Founder`
 - [NitesOut](https://www.nitesout.info/) `Cofounder, Technical + Creative`
 
+---
 ![jadenl1's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jadenl1&theme=dracula&show_icons=true&hide_border=true&layout=compact)
