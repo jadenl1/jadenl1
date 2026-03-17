@@ -10,4 +10,4 @@ Bachelor's Degree in Computer Science @ University of Maryland, College Park `Sp
 ### Reach Me:
 - Portfolio: http://leonardjaden.me/
 - Gmail: jleonardSTEM2021@gmail.com
-- LinkedIn: [leonardjaden](linkedin.com/in/leonardjaden/)
+- LinkedIn: https://www.linkedin.com/in/leonardjaden/
